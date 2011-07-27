@@ -1,0 +1,107 @@
+#banner  li{
+
+display: inline;
+
+}
+
+#banner {
+text-align:center;
+width:960;
+}
+#banner.first li{
+
+
+height:30px;
+background-color:lime;
+line-height:30px;
+
+}
+
+#banner.sec li{
+
+
+height:30px;
+background-color:red;
+line-height:30px;
+
+
+}
+#content{
+background-color:aqua;
+width:800;
+height:800;
+}
+
+
+#center{
+text-align:center;
+margin-left: auto;
+margin-right:auto;
+
+padding-right:10px;
+padding-left:10px;
+width:960px;
+
+background-color:red;
+}
+#list{
+text-align:left;
+}
+#left{
+
+width: 180px;
+background-color:pink;
+float: left;
+height: 100%;
+}
+
+
+#right{
+
+width: 180px;
+background-color:yellow;
+float: right;
+height: 100%;
+}
+#row1{
+
+background-color:aqua;
+
+}
+
+#row2{
+
+background-color:red;
+
+}
+
+#row3{
+
+background-color:green;
+}
+
+ table {
+ margin-left:auto;
+ margin-right:auto;
+ border-collapse:collapse;
+ }
+ 
+ td{
+border: 1px solid black;
+width:200px;
+}
+#content_block{
+width:170px;
+float:right;
+background-color:blue;
+}
+#content_block a{
+background-color:yellow;
+}
+#footer{
+text-align:center;
+background-color:lawngreen;
+}
+
+
+
